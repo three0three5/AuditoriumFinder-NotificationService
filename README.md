@@ -9,4 +9,4 @@ DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD - по умолч. хост и �
 
 USERSERVICE_URL - адрес UserService
 
-SPRING_PROFILE - использовать значение user-mock, чтобы не использовать userservice
+SPRING_PROFILE - использовать значение user-mock, чтобы не использовать userservice (по умолчанию development)
