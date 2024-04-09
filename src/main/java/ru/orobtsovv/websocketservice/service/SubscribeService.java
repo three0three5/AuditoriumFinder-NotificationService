@@ -5,7 +5,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.transaction.annotation.Transactional;
 import ru.orobtsovv.websocketservice.client.UserServiceClient;
-import ru.orobtsovv.websocketservice.client.UserServiceClientImpl;
 import ru.orobtsovv.websocketservice.domain.SubscribeEntity;
 import ru.orobtsovv.websocketservice.domain.SubscribeId;
 import ru.orobtsovv.websocketservice.domain.SubscribeRepository;

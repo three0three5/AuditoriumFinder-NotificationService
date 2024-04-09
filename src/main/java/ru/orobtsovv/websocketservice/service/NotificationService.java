@@ -4,7 +4,6 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import ru.orobtsovv.websocketservice.domain.SubscribeRepository;
-import ru.orobtsovv.websocketservice.dto.AuditoriumUpdate;
 import ru.orobtsovv.websocketservice.model.Notification;
 
 import java.util.List;
