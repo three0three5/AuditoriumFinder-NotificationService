@@ -3,7 +3,7 @@ user-service:
   are-friends-endpoint: ${user-service.url}/friends
 
 server:
-  port: 8080
+  port: 8083
   servlet:
     context-path: '/notifications'
 
